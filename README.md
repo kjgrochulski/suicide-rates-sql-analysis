@@ -314,7 +314,7 @@ Roughly 1,100 age-specific comparisons were made, so some ratios below 1 are exp
 - Patel V, et al. [Suicide mortality in India: a nationally representative survey](https://researchonline.lshtm.ac.uk/id/eprint/24811). The Lancet, 2012.
 - Vijayakumar L. [Suicide in women](https://pmc.ncbi.nlm.nih.gov/articles/PMC4539867).
 - [Suicide in India: a systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC4120287).
-- Yip PSF, Liu KY. [The ecological fallacy and the gender ratio of suicide in China](https://www.cambridge.org/core/product/72F0B482E3D390B0D3500BBD34572C1C/core-reader). 2006.
+- Yip PSF, Liu KY. [The ecological fallacy and the gender ratio of suicide in China](https://www.cambridge.org/core/product/72F0B482E3D390B0D3500BBD34572C1C/core-reader). British Journal of Psychiatry. 2006;189(5):465-466.
 
 ## License
 
