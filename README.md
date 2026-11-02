@@ -323,4 +323,4 @@ The code in this repository (SQL and Python) is released under the [MIT License]
 ## Author
 
 Karol Grochulski, University of Pittsburgh, B.S. Data Science
-[GitHub](https://github.com/kjgrochulski) | [LinkedIn](https://www.linkedin.com/in/karol-grochulski-6332a3351)
+[GitHub](https://github.com/kjgrochulski) | [LinkedIn](https://www.linkedin.com/in/kjgrochulski)
